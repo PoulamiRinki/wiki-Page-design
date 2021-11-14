@@ -1,386 +1,128 @@
-<!DOCTYPE html>
-<html lang="en">
-<head> 
-<meta charset="UTF-8"> 
-<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
- <link rel="stylesheet" href="login.css" /> 
-<title>Login Page</title>
+<HtMl></HtMl>
+<htmL></htmL>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="proper_structure.css" />
 </head>
+<h1>WIKI</h1>
+<h2>Class Rule</h2>
+<p>It's mandatory to attend classes​​​, recordings are for revision not for first-time learning.</p>
+
+<p>- Do join live classes from laptop/desktop, ​​​not from mobile.</p>
+
+<p>- Starting 10min and ending 10min of every class is for doubt sess​​​ion​​​.</p>
+
+<p>- Feel free to ask tough questions​​​ to your instructor. In case you aren't asking questions in Live classes then either you are a champ or you aren't really learning.</p>
+
+<p>- Make sure you practice class questions​​​ after every class, watching video aren't going to help you to crack interviews.</p>
+
+<p>- Make sure you complete class assignments​​​ max by the end of the current week in which the class was conducted.</p>
+
+<p>- Do share your assignment on the channel​​​ and seek feedback from your instructor and peers.</p>
+
+<p>- ewcefree to post any question​​​ on your batch channel </p>
+
+<p>- ​Collaborate with each other​ ​​​​by makin​​g friends/group/team in order to learn together and grow together at a faster pace.​​</p>
+<p>- ​​​Be ready to push yourself to bring out your best </p>
+
+<p>“Keep your habits right, keep your future bright.”</p>
+​
+<h2>Class Link</h2>
+<a href="https://us06web.zoom.us/j/7749007191?pwd=V2ZSaVFaRFNLeitDSHh3R3dVLytXUT09">link text</a>
+<h2>Class Recording </h2>
+
+
+
+<a href ="https://docs.google.com/spreadsheets/d/1ZphauRx4xk3-i4sRVJrjKEww_2C9-S1czaQYya-WxMg/edit?usp=sharing">link text</a>
+<h2>Avenger Teams</h2>
+<a href ="https://docs.google.com/spreadsheets/d/1W4e-SSds8ynT12BnDl0utyhxfYL0jGZQPgjv4-60GlA/edit#gid=0">link text</a>
+<h2>Class Code Link</h2>
+<p>will be updated soon.......</p>
+<h2>whom to contact</h2>
 <body>
- <form>
- <!-- maxlength="10" --> 
-<!-- pattern="" -->
- <!-- abcd@email.com ✔ // abcd ❌--> 
-<h1>Login</h1> 
-<input type="text" placeholder="username" /> 
-<input type="password" placeholder="password" />
- <p>Enter Password: 4 character, 2 special character, 3 number</p> <!-- Tooltip --> 
-<a href="registration.html">Click here to register</a>
- <br />
- <button type="submit">Login</button> 
-</form>
-</body>
-</html>
-input { 
-display: block; 
-margin-top: 10px;
- margin-bottom: 10px;
-}
-h1{
- font-weight: 200;
-}
-body {
- background-color: pink;
-}
-a {
-text-decoration: none;
-}
-button { 
-margin-top: 10px;
-}
-<!DOCTYPE html>
-<html lang="en">
-<head> 
-<meta charset="UTF-8"> 
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
- <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-<title>Document</title>
-</head>
-<body> 
-Registration Page
-</body>
-<body bgcolor="Lightskyblue">  
-
-<br>  
-
-<br>  
-
-<form>  
-
-  
-
-<label> Firstname </label>         
-
-<input type="text" name="firstname" size="15"/> <br> <br>  
-
-<label> Middlename: </label>     
-
-<input type="text" name="middlename" size="15"/> <br> <br>  
-
-<label> Lastname: </label>         
-
-<input type="text" name="lastname" size="15"/> <br> <br>  
-
-  
-
-<label>   
-
-Course :  
-
-</label>   
-
-<select>  
-
-<option value="Course">Course</option>  
-
-<option value="BCA">BCA</option>  
-
-<option value="BBA">BBA</option>  
-
-<option value="B.Tech">B.Tech</option>  
-
-<option value="MBA">MBA</option>  
-
-<option value="MCA">MCA</option>  
-
-<option value="M.Tech">M.Tech</option>  
-
-</select>  
-
-  
-
-<br>  
-
-<br>  
-
-<label>   
-
-Gender :  
-
-</label><br>  
-
-<input type="radio" name="male"/> Male <br>  
-
-<input type="radio" name="female"/> Female <br>  
-
-<input type="radio" name="other"/> Other  
-
-<br>  
-
-<br>  
-
-  
-
-<label>   
-
-Phone :  
-
-</label>  
-
-<input type="text" name="country code"  value="+91" size="2"/>   
-
-<input type="text" name="phone" size="10"/> <br> <br>  
-
-Address  
-
-<br>  
-
-<textarea cols="80" rows="5" value="address">  
-
-</textarea>  
-
-<br> <br>  
-
-Email:  
-
-<input type="email" id="email" name="email"/> <br>    
-
-<br> <br>  
-
-Password:  
-
-<input type="Password" id="pass" name="pass"> <br>   
-
-<br> <br>  
-
-Re-type password:  
-
-<input type="Password" id="repass" name="repass"> <br> <br>  
-
-<input type="button" value="Submit"/>  
-
-</form>  
-
-</body>  
-
-</html>  
-
-Test it Now
-Output:
-￼
-Code 2: The following code describes how to create a responsive registration form with the use of CSS.
-
-<!DOCTYPE html>  
-
-<html>  
-
-<head>  
-
-<meta name="viewport" content="width=device-width, initial-scale=1">  
-
-<style>  
-
-body{  
-
-  font-family: Calibri, Helvetica, sans-serif;  
-
-  background-color: pink;  
-
-}  
-
-.container {  
-
-    padding: 50px;  
-
-  background-color: lightblue;  
-
-}  
-
-  
-
-input[type=text], input[type=password], textarea {  
-
-  width: 100%;  
-
-  padding: 15px;  
-
-  margin: 5px 0 22px 0;  
-
-  display: inline-block;  
-
-  border: none;  
-
-  background: #f1f1f1;  
-
-}  
-
-input[type=text]:focus, input[type=password]:focus {  
-
-  background-color: orange;  
-
-  outline: none;  
-
-}  
-
- div {  
-
-            padding: 10px 0;  
-
-         }  
-
-hr {  
-
-  border: 1px solid #f1f1f1;  
-
-  margin-bottom: 25px;  
-
-}  
-
-.registerbtn {  
-
-  background-color: #4CAF50;  
-
-  color: white;  
-
-  padding: 16px 20px;  
-
-  margin: 8px 0;  
-
-  border: none;  
-
-  cursor: pointer;  
-
-  width: 100%;  
-
-  opacity: 0.9;  
-
-}  
-
-.registerbtn:hover {  
-
-  opacity: 1;  
-
-}  
-
-</style>  
-
-</head>  
-
-<body>  
-
-<form>  
-
-  <div class="container">  
-
-  <center>  <h1> Student Registeration Form</h1> </center>  
-
-  <hr>  
-
-  <label> Firstname </label>   
-
-<input type="text" name="firstname" placeholder= "Firstname" size="15" required />   
-
-<label> Middlename: </label>   
-
-<input type="text" name="middlename" placeholder="Middlename" size="15" required />   
-
-<label> Lastname: </label>    
-
-<input type="text" name="lastname" placeholder="Lastname" size="15"required />   
-
-<div>  
-
-<label>   
-
-Course :  
-
-</label>   
-
-  
-
-<select>  
-
-<option value="Course">Course</option>  
-
-<option value="BCA">BCA</option>  
-
-<option value="BBA">BBA</option>  
-
-<option option value="B.Tech">B.Tech</option>  
-
-<option value="MBA">MBA</option>  
-
-<option value="MCA">MCA</option>  
-
-<option value="M.Tech">M.Tech</option>  
-
-</select>  
-
-  
-
-<br>  
-
-<br>  
-
-<label>   
-
-Gender :  
-
-</label><br>  
-
-<input type="radio" name="male"/> Male <br>  
-
-<input type="radio" name="female"/> Female <br>  
-
-<input type="radio" name="other"/> Other  
-
-<br>  
-
-<br>  
-
-  
-
-<label>   
-
-Phone :  
-
-</label>  
-
-<input type="text" name="country code"  value="+91" size="2"/>   
-
-<input type="text" name="phone" size="10"/> <br> <br>  
-
-Address  
-
-<br>  
-
-<textarea cols="80" rows="5" value="address">  
-
-</textarea>  
-
-<br> <br>  
-
-Email:  
-
-<input type="email" id="email" name="email"/> <br>    
-
-<br> <br>  
-
-Password:  
-
-<input type="Password" id="pass" name="pass"> <br>   
-
-<br> <br>  
-
-Re-type password:  
-
-<input type="Password" id="repass" name="repass"> <br> <br>  
-
-<input type="button" value="Submit"/>  
-
-</form>  
-
-</body>  
-
-</html>  
+ <table border="1">
+        <tbody>
+            <tr>
+                <td>ISA</td>
+                <td> Meghahaturvedi </td>
+                </tr>
+             <tr>
+                 <td>Doubts</td>
+                 <td>Akhil Sharma, Aryan Gupta </td>
+             </tr>
+              <tr>
+                <td>Share Assignment &
+                 Getting Feedback</td>
+                <td>Batch channel</td>
+            </tr>
+             <tr>
+                <td>Video Recordings</td>
+                <td>Batch channel</td>
+              </tr>
+               <tr>
+<td>Test</td>
+                   <td>Akhil sharma, Aryan Gupta</td>
+              </tr>
+               <tr>
+                  <td>Any Other query releated to classes/feedback</td>
+                  <td>Anusha = 07982127155</td>
+                <td></td>
+            </tr>
+ <h2>Class Schedule</h2>
+<body>
+ <table border="1">
+        <thead>
+            <tr>
+                <th>Day</th>
+                <th>Date</th>
+                <th>Duration</th>
+                <th>Topic</th>
+                <th>Notes</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Monday</td>
+                <td>8th Nov</td>
+                <td>8-10PM</td>
+                <td>HTML: Elements, Attributes, typography, list, img, Layout, Images, Css basics: id, classes, color, width, height, text property, font property, </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td>9th Nov</td>
+                <td>8-10PM</td>
+                <td> Links, box, model, Tables </td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>10th Nov</td>
+                <td>8-10PM</td>
+                <td>Hands on HTML concepts</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td>11th Nov</td>
+                <td>8-10PM</td>
+                <td>-From, level, Input[text, password, radio, checkbox, submit, button], text-area-HTML images and its properties</td>
+                
+                <td></td>
+            </tr>
+            <tr>
+             <td>Friday</td>
+                <td>12th Nov</td>
+                <td>8-10PM</td>
+                <td>Hands-on Advance HTML concepts</td>
+                <td></td>
+              </tr>
+         </tbody>
+ <tfoot>
+
+        </tfoot>
+    </table>
+ </html>
